@@ -1,0 +1,16 @@
+Preguntas
+
+1. ¿Hay cambios en la visualización del sitio web? Si la
+respuesta es negativa, piense un momento ¿Para qué sirven las etiquetas meta? 
+R// no muestra nada visible en la pagina web pero sirve para describir palabras claves para que un buscador online o un programador dentro del codigo identifique de que trata el sitio web.
+
+2. ¿Qué pasaría si la imagen esta guardada
+en la misma carpeta de la página web? ¿Y si está en una carpeta superior? 
+R// Para que la imagen se muestre se debe de escribir la ruta de la carpeta donde este guardada, si se coloca una erronea no mostara la imagen
+
+3. ¿Cómo se consigue que el último enlace se abra en una nueva ventana?
+R// se consigue escribiendo despues del enlace "target=_blank"
+
+4. ¿El resultado obtenido es similar al esquema HTML mostrado en la figura de la introducción teórica
+para elementos semánticos? ¿Por qué?
+R// si cumple lo podemos observar cuando le damos a inspeccionar muestra la estructura de la pagina 
