@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto auto auto;
+  gap: 10px;
+  width: 80%;
+  max-width: 900px;
+}
+
+.item {
+  background: orange;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Tamaños diferentes */
+.grande {
+  padding: 40px;  /* más grandes */
+}
+
+.pequeno {
+  padding: 15px;  /* más pequeños */
+}

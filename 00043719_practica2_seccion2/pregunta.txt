@@ -1,0 +1,4 @@
+¿Hay cambios en la visualización del sitio web? Porqué se 
+dan estos cambios entre tan pocas líneas de diseño CSS.
+
+R// Si hay una diferencia, ya que en el ejercicio 2 usa FLEX organiza los elementos en una sola dimension ya sea fila o columna , en cambio GRID usado en el ejercicio 3 lo hace para dos dimensiones
