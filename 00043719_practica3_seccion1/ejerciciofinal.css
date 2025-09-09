@@ -1,0 +1,58 @@
+body {
+    background-color: #272528;
+    font-size: 20px;
+}
+
+.shopping-cart {
+    background-color: #0069c0;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    opacity: 0;
+    animation: fadeIn 1s ease-in-out forwards;
+    color: whitesmoke;
+    width: 320px;
+    margin-top: 70px;
+    margin-left: 40%;
+
+}
+
+.shopping-cart a{
+    color: white;
+}
+
+.shopping-cart ul{
+    list-style: none;
+}
+
+.shopping-cart li {
+    margin: 10px 0;
+}
+
+.shopping-cart button {
+    background-color: #005c00;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.shopping-cart button:hover{
+    cursor: pointer;
+    background-color: green;
+    transform: scale(1.1);
+}
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

@@ -1,0 +1,4 @@
+¿Puedo diseñar toda mi web usando GRID? Porqué se 
+dan estos cambios entre tan pocas líneas de diseño CSS.
+R// Si se puede diseñar solo con GRID ya que organiza la pagina en dos dimensiones.
+Estos cambios suceden ya que grid y flex alteran por completo la forma en que se distribuyen los objetos en el sitio web
