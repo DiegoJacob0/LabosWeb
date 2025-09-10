@@ -17,11 +17,11 @@ body {
 
 }
 
-.shopping-cart a{
+.shopping-cart a {
     color: white;
 }
 
-.shopping-cart ul{
+.shopping-cart ul {
     list-style: none;
 }
 
@@ -39,7 +39,7 @@ body {
     transition: background-color 0.3s, transform 0.2s;
 }
 
-.shopping-cart button:hover{
+.shopping-cart button:hover {
     cursor: pointer;
     background-color: green;
     transform: scale(1.1);
@@ -51,6 +51,7 @@ body {
         opacity: 0;
         transform: translateY(20px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
