@@ -1,0 +1,5 @@
+¿Qué ocurre en cada caso presentado anteriormente con los operadores y porqué JS me permite esto?
+R// Porque js permite convertir automaticamente los valores para que las operaciones aritmeticas tengan sentido y no ocasiones errores
+
+¿El comportamiento de los flujos de control es similar a otros lenguajes y ambientes de desarrollo?
+R// Si, todos los flujos de control en JS funcionan igual que otros lenguajes pero en JS es mas flexible y directo con los tipos de datos
