@@ -1,0 +1,8 @@
+- ¿Qué significa className en React?
+R//Es el equivalente a class en HTML que se usa para asignar clases CSS a los elementos. 
+
+- ¿las props tienen un limite? 
+R// No, se puede todos los props que se quieran.
+
+- ¿Quién define las props?
+R// Las props las define el componente padre al usar el componente hijo.

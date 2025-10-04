@@ -1,0 +1,21 @@
+
+
+// Componente React simple
+function Libro({ titulo }) {
+  return <h2>Libro: {titulo}</h2>;
+}
+
+// Uso del componente
+<Libro titulo="Cien Años de Soledad" />
+
+
+// Servidor básico con Express
+const express = require('express');
+const app = express();
+const PORT = 3000;
+
+app.get('/libros', (req, res) => {
+  res.send(['Cien Años de Soledad', 'El Quijote']);
+});
+
+app.listen(PORT, () => console.log(`Servidor corriendo en puerto ${PORT}`));

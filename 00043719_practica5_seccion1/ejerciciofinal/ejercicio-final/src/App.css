@@ -1,0 +1,14 @@
+.cientifico-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+
+}
+
+
+.avatar {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
