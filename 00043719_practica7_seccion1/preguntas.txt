@@ -1,0 +1,5 @@
+¿Cuál es la diferencia entre autenticación y autorizacion?
+Autenticacion sirve para saber quienes somos al momento de ingresar a nuestra cuenta, y autorizacion decide que recursos tenemos acceso una ves hayamos tenido acceso al sitio.
+
+¿Cuál es la función del token JWT en la guía?
+Para identificar la sesion del usuario sin tener que guardar la informacion en el servidor.
